@@ -1,8 +1,8 @@
 import './App.css';
-import MyApp from './MyApp';
+import ImageLi from './ImageLi.jsx';
 
 export default function App() {
   return (
-<MyApp/>
+<ImageLi/>
   )
 }
